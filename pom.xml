@@ -19,6 +19,11 @@
             <version>v0.9.1</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>org.codehaus.mojo</groupId>
+            <artifactId>aspectj-maven-plugin</artifactId>
+            <version>1.14.0</version>
+        </dependency>
 
     </dependencies>
     <build>
